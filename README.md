@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abhi-n-anand
-- 🌱 I’m currently working in Robotics at Amazon
 - 📫 How to reach me: abhinavanand at berkeley.edu
 
 <!---
