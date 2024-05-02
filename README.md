@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @abhi-n-anand
-- 📫 How to reach me: abhinavanand at berkeley.edu
-
-<!---
-abhi-n-anand/abhi-n-anand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Abhi.
+Reach me at abhinavanand at berkeley.edu
